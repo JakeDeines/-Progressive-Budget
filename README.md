@@ -4,7 +4,7 @@
 
 ## Description
 
-
+In this app the user will be able to add expenses and deposits to their budget with or without a connection. (process pending)
 
 ## Github Repository URL
 https://github.com/JakeDeines/-Progressive-Budget
